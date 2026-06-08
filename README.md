@@ -51,7 +51,7 @@ Or just click **`Code → Download ZIP`** above.
 
 ### 2. Open in Excel
 ```
-📂 Open: Personal_Income_Expenses_Beautified.xlsx
+📂 Open: Personal_Income_Expenses.xlsx
 ```
 > Works with **Microsoft Excel 2016+**, **Google Sheets**, and **LibreOffice Calc**
 
@@ -65,7 +65,7 @@ Or just click **`Code → Download ZIP`** above.
 
 ```
 📦 personal-income-expense-tracker/
- ┣ 📊 Personal_Income_Expenses_Beautified.xlsx   ← Main tracker
+ ┣ 📊 Personal_Income_Expenses.xlsx   ← Main tracker
  ┗ 📄 README.md                                  ← You are here
 ```
 
@@ -152,6 +152,6 @@ git checkout -b feature/add-charts
 
 *If this helped you, please ⭐ star the repo!*
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/personal-income-expense-tracker?style=social)](../../stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Dibyanshu-72/personal-income-expense-tracker?style=social)](../../stargazers)
 
 </div>
