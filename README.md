@@ -66,7 +66,7 @@ Or just click **`Code → Download ZIP`** above.
 ```
 📦 personal-income-expense-tracker/
  ┣ 📊 Personal_Income_Expenses.xlsx   ← Main tracker
- ┗ 📄 README.md                                  ← You are here
+ ┗ 📄 README.md                       ← You are here
 ```
 
 ---
