@@ -44,7 +44,7 @@
 
 ### 1. Download
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-income-expense-tracker.git
+git https://github.com/Dibyanshu-72/Personal-income-expense-tracker
 ```
 
 Or just click **`Code → Download ZIP`** above.
@@ -145,9 +145,6 @@ Contributions are welcome! Feel free to:
 git checkout -b feature/add-charts
 ```
 
----
-
----
 
 <div align="center">
 
